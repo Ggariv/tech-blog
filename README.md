@@ -7,6 +7,7 @@ Your challenge this week is to build a CMS-style blog site similar to a Wordpres
 Access to a test video through the [following link](https://drive.google.com/file/d/1O9ASA5quY-HAIIAfZYEHRMp3JtHecmUO/view?usp=sharing)
 
 Access to the Heroku app through the [following link](https://dashboard.heroku.com/apps/ggtech-blog).
+Access to the Heroku site through the [following link](https://ggtech-blog.herokuapp.com/)
 
 ## User Story
 
